@@ -8,5 +8,6 @@ https://github.com/CodvaTech-Labs/ctl-java-demo/blob/main/query.sql
 
 
 # Access application using below URL 
-http://public_ip:8080/CrudDemoWithMySql/list
+http://public_ip:8080/CrudDemoWithMySql
+
 
