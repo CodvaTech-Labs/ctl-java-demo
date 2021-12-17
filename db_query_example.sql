@@ -1,6 +1,6 @@
 How to Create new table in database
 
-CREATE DATABASE 'demo';
+CREATE DATABASE demo;
 USE demo;
 
 CREATE TABLE emp(
