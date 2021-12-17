@@ -1,5 +1,8 @@
 How to Create new table in database
 
+CREATE DATABASE 'demo';
+USE demo;
+
 CREATE TABLE emp(
     EmpId int,
     LastName varchar(255),
